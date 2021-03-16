@@ -157,6 +157,7 @@
             this.Controls.Add(this.displayButton);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lists";
             this.ResumeLayout(false);
             this.PerformLayout();
